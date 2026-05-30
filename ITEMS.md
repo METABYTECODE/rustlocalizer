@@ -266,7 +266,7 @@
 |Salt Water|![](https://rustlabs.com/img/items40/water.salt.png)|N/A|N/A|N/A|
 |Металлолом|![](https://rustlabs.com/img/items40/scrap.png)|-932201673|1,000|20 mins|
 |Камни|![](https://rustlabs.com/img/items40/stones.png)|-2099697608|1,000|5 mins|
-|сера|![](https://rustlabs.com/img/items40/sulfur.png)|-1581843485|1,000|40 mins|
+|Сера|![](https://rustlabs.com/img/items40/sulfur.png)|-1581843485|1,000|40 mins|
 |Серная руда|![](https://rustlabs.com/img/items40/sulfur.ore.png)|-1157596551|1,000|40 mins|
 |Компьютер наведения|![](https://rustlabs.com/img/items40/targeting.computer.png)|1523195708|64|1 hour|
 |Water|![](https://rustlabs.com/img/items40/water.png)|N/A|N/A|N/A|
