@@ -1222,3 +1222,4 @@
 |Деревянная рама маленькая|![](https://rustlabs.com/img/items40/woodframe.small.png)|-1476278729|||
 |Деревянное Зеркало Маленькое|![](https://rustlabs.com/img/items40/woodmirror.small.png)|-1497205569|||
 |Рабочая тележка|![](https://rustlabs.com/img/items40/workcart.png)|-810326667|||
+|Улучшение радиуса для верстака|![](https://rustlabs.com/img/items40/workbench.upgrade.range.png)|1470387662|||
