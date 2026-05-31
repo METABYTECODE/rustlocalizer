@@ -415,13 +415,13 @@
 |Кирка|![](https://rustlabs.com/img/items40/pickaxe.png)|-1302129395|1|20 mins|
 |Радиочастотный передатчик|![](https://rustlabs.com/img/items40/rf.detonator.png)|596469572|1|5 mins|
 |Камень|![](https://rustlabs.com/img/items40/rock.png)|963906841|1|5 mins|
-|Спасенный топор|![](https://rustlabs.com/img/items40/axe.salvaged.png)|-262590403|1|40 mins|
-|Спасенный молот|![](https://rustlabs.com/img/items40/hammer.salvaged.png)|-1506397857|1|20 mins|
-|Спасенный ледоруб|![](https://rustlabs.com/img/items40/icepick.salvaged.png)|-1780802565|1|40 mins|
-|Ранец Заряд|![](https://rustlabs.com/img/items40/explosive.satchel.png)|-1878475007|10|40 mins|
+|Самодельный топор|![](https://rustlabs.com/img/items40/axe.salvaged.png)|-262590403|1|40 mins|
+|Самодельный молот|![](https://rustlabs.com/img/items40/hammer.salvaged.png)|-1506397857|1|20 mins|
+|Самодельный Ледоруб|![](https://rustlabs.com/img/items40/icepick.salvaged.png)|-1780802565|1|40 mins|
+|Связка бобовых гранат|![](https://rustlabs.com/img/items40/explosive.satchel.png)|-1878475007|10|40 mins|
 |Лопата|![](https://rustlabs.com/img/items40/shovel.png)|-1536855921|1|5 mins|
 |Дымовая граната|![](https://rustlabs.com/img/items40/grenade.smoke.png)|1263920163|3|20 mins|
-|Спрей может|![](https://rustlabs.com/img/items40/spraycan.png)|-596876839|1|5 mins|
+|Баллончик|![](https://rustlabs.com/img/items40/spraycan.png)|-596876839|1|5 mins|
 |Каменный топор|![](https://rustlabs.com/img/items40/stonehatchet.png)|-1583967946|1|5 mins|
 |Каменная кирка|![](https://rustlabs.com/img/items40/stone.pickaxe.png)|171931394|1|5 mins|
 |Сигнал питания|![](https://rustlabs.com/img/items40/supply.signal.png)|1397052267|1|1 hour|
@@ -434,10 +434,10 @@
 |Кровь|![](https://rustlabs.com/img/items40/blood.png)|1776460938|1,000|5 mins|
 |Большая аптечка|![](https://rustlabs.com/img/items40/largemedkit.png)|254522515|1|20 mins|
 |Медицинский шприц|![](https://rustlabs.com/img/items40/syringe.medical.png)|1079279582|2|20 mins|
-|Усовершенствованный антирадовый чай|![](https://rustlabs.com/img/items40/radiationresisttea.advanced.png)|-1729415579|10|40 mins|
+|Продвинутый антирадовый чай|![](https://rustlabs.com/img/items40/radiationresisttea.advanced.png)|-1729415579|10|40 mins|
 |Продвинутый лечебный чай|![](https://rustlabs.com/img/items40/healingtea.advanced.png)|-2123125470|10|40 mins|
 |Продвинутый чай Max Health|![](https://rustlabs.com/img/items40/maxhealthtea.advanced.png)|603811464|10|40 mins|
-|Улучшенный рудный чай|![](https://rustlabs.com/img/items40/oretea.advanced.png)|2063916636|10|40 mins|
+|Продвинутый рудный чай|![](https://rustlabs.com/img/items40/oretea.advanced.png)|2063916636|10|40 mins|
 |Продвинутый Рад.|![](https://rustlabs.com/img/items40/radiationremovetea.advanced.png)|2021351233|10|40 mins|
 |Продвинутый чай на металлолом|![](https://rustlabs.com/img/items40/scraptea.advanced.png)|524678627|10|40 mins|
 |Продвинутый древесный чай|![](https://rustlabs.com/img/items40/woodtea.advanced.png)|-541206665|10|40 mins|
