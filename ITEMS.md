@@ -193,7 +193,7 @@
 |Коврик|![](https://rustlabs.com/img/items40/rug.png)|-1985799200|1|5 mins|
 |Коврик из медвежьей шкуры|![](https://rustlabs.com/img/items40/rug.bear.png)|-1104881824|1|5 mins|
 |СУПЕР чулок|![](https://rustlabs.com/img/items40/stocking.large.png)|-465682601|1|5 mins|
-|Спасенные полки|![](https://rustlabs.com/img/items40/shelves.png)|1950721418|10|20 mins|
+|Самодельные полки|![](https://rustlabs.com/img/items40/shelves.png)|1950721418|10|20 mins|
 |Пугало|![](https://rustlabs.com/img/items40/scarecrow.png)|177226991|5|5 mins|
 |Секретлаб Стул|![](https://rustlabs.com/img/items40/secretlabchair.png)|567871954|5|5 mins|
 |Одиночный знак|![](https://rustlabs.com/img/items40/sign.post.single.png)|1542290441|5|5 mins|
