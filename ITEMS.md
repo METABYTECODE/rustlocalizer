@@ -248,7 +248,7 @@
 |Дизельное топливо|![](https://rustlabs.com/img/items40/diesel_barrel.png)|1568388703|20|1 hour|
 |Пустая банка фасоли|![](https://rustlabs.com/img/items40/can.beans.empty.png)|1655979682|10|5 mins|
 |Пустая банка тунца|![](https://rustlabs.com/img/items40/can.tuna.empty.png)|-1557377697|10|5 mins|
-|взрывчатые вещества|![](https://rustlabs.com/img/items40/explosives.png)|-592016202|100|1 hour|
+|Взрывчатое вещество|![](https://rustlabs.com/img/items40/explosives.png)|-592016202|100|1 hour|
 |Удобрения|![](https://rustlabs.com/img/items40/fertilizer.png)|-930193596|1,000|5 mins|
 |Порох|![](https://rustlabs.com/img/items40/gunpowder.png)|-265876753|1,000|1 hour|
 |Высококачественный Металл|![](https://rustlabs.com/img/items40/metal.refined.png)|317398316|100|40 mins|
