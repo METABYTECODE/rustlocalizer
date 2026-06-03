@@ -816,7 +816,7 @@
 |Куриный пирог|![](https://rustlabs.com/img/items40/pie.chicken.png)|120820987|||
 |Плюшевый тяжёлый учёный|![](https://rustlabs.com/img/items40/heavy.scientist.plushie.png)|146221721|||
 |Обсидиановый костяной нож|![](https://rustlabs.com/img/items40/knife.bone.obsidian.png)|158303804|||
-|#50кал|![](https://rustlabs.com/img/items40/50cal.mounted.png)|162882477|||
+|Пулемет М-249|![](https://rustlabs.com/img/items40/50cal.mounted.png)|162882477|||
 |Розовая идентификационная бирка|![](https://rustlabs.com/img/items40/pinkidtag.png)|180752235|||
 |Улей|![](https://rustlabs.com/img/items40/beehive.png)|184516676|||
 |Внутренняя трубка|![](https://rustlabs.com/img/items40/innertube.horse.png)|185586769|||
@@ -916,7 +916,7 @@
 |Испорченный продукт|![](https://rustlabs.com/img/items40/spoiled.produce.png)|1184215560|||
 |Идентификационная бирка лаванды|![](https://rustlabs.com/img/items40/lavenderidtag.png)|1223729384|||
 |Жетон для собак|![](https://rustlabs.com/img/items40/dogtagneutral.png)|1223900335|||
-|#50кал|![](https://rustlabs.com/img/items40/50cal.mounted.right.png)|1248383659|||
+|Пулемет М-249|![](https://rustlabs.com/img/items40/50cal.mounted.right.png)|1248383659|||
 |Ящик для хранения доспехов|![](https://rustlabs.com/img/items40/component.box.armor.large.png)|1254295946|||
 |Солнцезащитные очки|![](https://rustlabs.com/img/items40/sunglasses02black.png)|1258768145|||
 |Стойка для оружия с двойным освещением|![](https://rustlabs.com/img/items40/weaponrack.doublelight.png)|1277159544|||
@@ -1019,7 +1019,7 @@
 |2-х модульный автомобиль|![](https://rustlabs.com/img/items40/2module%20car.png)|-866121090|||
 |3-х модульный автомобиль|![](https://rustlabs.com/img/items40/3module%20car.png)|-831725027|||
 |4-х модульный автомобиль|![](https://rustlabs.com/img/items40/4module%20car.png)|-935322684|||
-|#50кал|![](https://rustlabs.com/img/items40/50cal.mounted.left.png)|-1467876094|||
+|Пулемет М-249|![](https://rustlabs.com/img/items40/50cal.mounted.left.png)|-1467876094|||
 |Горизонтальный резервуар для хранения Abyss|![](https://rustlabs.com/img/items40/abyss.barrel.horizontal.png)|-880494890|||
 |Вертикальный резервуар для хранения Abyss|![](https://rustlabs.com/img/items40/abyss.barrel.vertical.png)|-919882824|||
 |Большой фрагмент чертежа|![](https://rustlabs.com/img/items40/advancedblueprintfragment.png)|-1896395719|||
@@ -1056,7 +1056,7 @@
 |Круглый воздушный шар|![](https://rustlabs.com/img/items40/circleballoon2025.png)|-105343718|||
 |Орхидея Клон|![](https://rustlabs.com/img/items40/clone.orchid.png)|-798662404|||
 |Роза Клон|![](https://rustlabs.com/img/items40/clone.rose.png)|-19360132|||
-|#одеждаманекен|![](https://rustlabs.com/img/items40/clothing.mannequin.png)|-606898372|||
+|Манекен|![](https://rustlabs.com/img/items40/clothing.mannequin.png)|-606898372|||
 |Асбестовая броневая вставка|![](https://rustlabs.com/img/items40/clothing.mod.armorinsert_asbestos.png)|-903796529|||
 |Деревянная вставка для брони|![](https://rustlabs.com/img/items40/clothing.mod.armorinsert_wood.png)|-593892112|||
 |Кокосовый доспех-шлем|![](https://rustlabs.com/img/items40/cocoknight.armor.helmet.png)|-582467439|||
