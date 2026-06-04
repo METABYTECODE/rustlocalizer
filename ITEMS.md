@@ -1223,28 +1223,28 @@
 |Маленькое деревянное зеркало|![](https://rustlabs.com/img/items40/woodmirror.small.png)|-1497205569|||
 |Рабочая вагонетка|![](https://rustlabs.com/img/items40/workcart.png)|-810326667|||
 |Улучшение радиуса для верстака|![](https://rustlabs.com/img/items40/workbench.upgrade.range.png)|1470387662|||
-|Salvaged Industrial Shelves|![](https://rustlabs.com/img/items40/salvaged-industrial-shelves.png)|-1018026008|||
-|Industrial Storage Horizontal Barrel|![](https://rustlabs.com/img/items40/industrial-storage-horizontal.png)|-1019111952|||
-|Базовые полуполки|![](https://rustlabs.com/img/items40/)|-1024954624|||
-|Набор лишних деталей для верстака|![](https://rustlabs.com/img/items40/workbench-upgrade-surplus.png)|-1536343135|||
-|Базовые одинарные полки|![](https://rustlabs.com/img/items40/)|-1695149731|||
-|Ballistic vest|![](https://rustlabs.com/img/items40/ballistic-vest.png)|-1780402255|||
-|BDU shirt|![](https://rustlabs.com/img/items40/bdu-shirt.png)|-2127311451|||
-|Single Shallow Industrial Wall Shelves|![](https://rustlabs.com/img/items40/wall-shallow-industrial-shelves.png)|-265202949|||
-|Миномётная мина (осколочная)|![](https://rustlabs.com/img/items40/ammo-mortar-fragment.png)|-486432631|||
-|Industrial Auto Turret|![](https://rustlabs.com/img/items40/)|-786398324|||
-|Industrial Storage Vertical Barrel|![](https://rustlabs.com/img/items40/industrial-storage-vertical.png)|-883975138|||
-|Ballistic helmet|![](https://rustlabs.com/img/items40/ballistic-helmet.png)|1127732084|||
-|Миномёт|![](https://rustlabs.com/img/items40/mortar-deployable.png)|1459828804|||
-|BDU pants|![](https://rustlabs.com/img/items40/bdu-pants.png)|1468749025|||
-|Large Industrial Furnace|![](https://rustlabs.com/img/items40/)|1868984394|||
-|Ballistic leg armour|![](https://rustlabs.com/img/items40/ballistic-legarmor.png)|1983541158|||
-|Bowless Crossbow|![](https://rustlabs.com/img/items40/crossbowbowless.png)|2022157467|||
-|Базовая вертикальная бочка для хранения|![](https://rustlabs.com/img/items40/)|2045583965|||
-|Industrial Electric Furnace|![](https://rustlabs.com/img/items40/industrial-electric-furnace.png)|225892284|||
-|Industrial Garage Door|![](https://rustlabs.com/img/items40/)|346569548|||
-|Industrial Torch|![](https://rustlabs.com/img/items40/industrial-torch.png)|4474927|||
-|Штурмовая винтовка LR-300|![](https://rustlabs.com/img/items40/m16a2.png)|599591861|||
-|Базовая горизонтальная бочка для хранения|![](https://rustlabs.com/img/items40/)|655356057|||
-|Half Height Industrial Shelves|![](https://rustlabs.com/img/items40/halfheight-industrial-shelves.png)|786458957|||
-|Миномётная мина|![](https://rustlabs.com/img/items40/ammo-mortar-basic.png)|963150711|||
+|Ballistic helmet|![](https://cdn.rusthelp.com/images/thumbnails/ballistic-helmet.png)|1127732084|||
+|Ballistic leg armour|![](https://cdn.rusthelp.com/images/thumbnails/ballistic-legarmor.png)|1983541158|||
+|Ballistic vest|![](https://cdn.rusthelp.com/images/thumbnails/ballistic-vest.png)|-1780402255|||
+|BDU pants|![](https://cdn.rusthelp.com/images/thumbnails/bdu-pants.png)|1468749025|||
+|BDU shirt|![](https://cdn.rusthelp.com/images/thumbnails/bdu-shirt.png)|-2127311451|||
+|Bowless Crossbow|![](https://cdn.rusthelp.com/images/thumbnails/crossbowbowless.png)|2022157467|||
+|Half Height Industrial Shelves|![](https://cdn.rusthelp.com/images/thumbnails/halfheight-industrial-shelves.png)|786458957|||
+|Industrial Electric Furnace|![](https://cdn.rusthelp.com/images/thumbnails/industrial-electric-furnace.png)|225892284|||
+|Industrial Storage Horizontal Barrel|![](https://cdn.rusthelp.com/images/thumbnails/industrial-storage-horizontal.png)|-1019111952|||
+|Industrial Storage Vertical Barrel|![](https://cdn.rusthelp.com/images/thumbnails/industrial-storage-vertical.png)|-883975138|||
+|Industrial Torch|![](https://cdn.rusthelp.com/images/thumbnails/industrial-torch.png)|4474927|||
+|Salvaged Industrial Shelves|![](https://cdn.rusthelp.com/images/thumbnails/salvaged-industrial-shelves.png)|-1018026008|||
+|Single Shallow Industrial Wall Shelves|![](https://cdn.rusthelp.com/images/thumbnails/wall-shallow-industrial-shelves.png)|-265202949|||
+|Миномёт|![](https://cdn.rusthelp.com/images/thumbnails/mortar-deployable.png)|1459828804|||
+|Миномётная мина|![](https://cdn.rusthelp.com/images/thumbnails/ammo-mortar-basic.png)|963150711|||
+|Миномётная мина (осколочная)|![](https://cdn.rusthelp.com/images/thumbnails/ammo-mortar-fragment.png)|-486432631|||
+|Набор лишних деталей для верстака|![](https://cdn.rusthelp.com/images/thumbnails/workbench-upgrade-surplus.png)|-1536343135|||
+|Штурмовая винтовка LR-300|![](https://cdn.rusthelp.com/images/thumbnails/m16a2.png)|599591861|||
+|Industrial Auto Turret|![]()|-786398324|||
+|Industrial Garage Door|![]()|346569548|||
+|Large Industrial Furnace|![]()|1868984394|||
+|Базовая вертикальная бочка для хранения|![]()|2045583965|||
+|Базовая горизонтальная бочка для хранения|![]()|655356057|||
+|Базовые одинарные полки|![]()|-1695149731|||
+|Базовые полуполки|![]()|-1024954624|||
