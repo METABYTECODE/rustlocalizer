@@ -1111,7 +1111,7 @@
 |Испорченная конина|![](https://rustlabs.com/img/items40/horsemeat.spoiled.png)|-724146494|||
 |Рыцарский шлем|![](https://rustlabs.com/img/items40/knightsarmour.helmet.png)|-427072335|||
 |Латная юбка рыцаря|![](https://rustlabs.com/img/items40/knightsarmour.skirt.png)|-945708533|||
-|Цепной меч Корпуса смерти Крига|![](https://rustlabs.com/img/items40/krieg.chainsword.png)|-1770281406|||
+|Бензопила Крига|![](https://rustlabs.com/img/items40/krieg.chainsword.png)|-1770281406|||
 |Грэк Помповый дробовик|![](https://rustlabs.com/img/items40/krieg.shotgun.png)|-420889602|||
 |Большой рюкзак Krieg|![](https://rustlabs.com/img/items40/kriegbackpack.png)|-874650016|||
 |Связка латексных шаров|![](https://rustlabs.com/img/items40/latexclumpballoon2025.png)|-1440443161|||
