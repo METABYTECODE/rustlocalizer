@@ -637,7 +637,7 @@
 | Охотничий нож | knife.skinning | -2073432256 | Острый нож для снятия шкур. Чрезвычайно эффективен при добыче мяса, а также позволяет получать трофеи, которые можно закрепить на охотничьих подставках. | Weapon | 1 | items/Weapon/knife.skinning.png |
 | Knights armour helmet | knightsarmour.helmet | -427072335 | A medieval knights helmet. Made from scrap metal. Excellent craftmanship. | Attire | 1 | items/Attire/knightsarmour.helmet.png |
 | Knights armour skirt plates | knightsarmour.skirt | -945708533 | A well made set of knights plate that covers the hips and thighs. Made of scrap metal. | Attire | 1 | items/Attire/knightsarmour.skirt.png |
-| Цепной меч Корпуса смерти Крига | krieg.chainsword | -1770281406 | Жестокое орудие войны, с ревом оживающее при каждом взмахе. | Tool | 1 | items/Tool/krieg.chainsword.png |
+| Бензопила Krieg | krieg.chainsword | -1770281406 | Жестокое орудие войны, с ревом оживающее при каждом взмахе. | Tool | 1 | items/Tool/krieg.chainsword.png |
 | Knights armour cuirass | knighttorso.armour | 547862680 | A well made collection of scrap metal formed into a knights armour. | Attire | 1 | items/Attire/knighttorso.armour.png |
 | Дробовик Krieg | krieg.shotgun | -420889602 | Тяжёлый, надёжный и беспощадный. Оружие, которое не знает колебаний. | Weapon | 1 | items/Weapon/krieg.shotgun.png |
 | Wooden Boat Ladder | ladder.wooden.boat | 255305250 | A ladder will help you climb walls on any boat. | Construction | 5 | items/Construction/ladder.wooden.boat.png |
